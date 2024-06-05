@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray
 - 👀 I’m interested in ... Mangas ... East Asian Cinema 
-- 🌱 I’m currently learning ... Javascript ... HTML ... CSS ... React
+- 🌱 I’m currently learning ... Javascript ... HTML ... CSS ... React ... Node.js
 - 💞️ I’m looking to collaborate on ... Meaningful ... Genuine Projects
 - 📫 How to reach me ... rzhou@pursuit.org
 - 😄 Pronouns: ... 
