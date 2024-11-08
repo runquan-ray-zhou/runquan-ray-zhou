@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning ... Javascript ... HTML ... CSS ... React ... Node.js ... Tailwind ... DSA ... Go ... Java
 - 💞️ I’m looking to collaborate on ... Meaningful ... Genuine Projects
 - 📫 How to reach me ... rzhou@pursuit.org
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+- 😄 Pronouns: ... he/him/his
+- ⚡ Fun fact: ... Back in the days, avid DOTA2 and Magic The Gathering TCG player
+- 💻 Portfolio: ... https://runquanrayzhou.netlify.app/
 
 <!---
 runquan-ray-zhou/runquan-ray-zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
