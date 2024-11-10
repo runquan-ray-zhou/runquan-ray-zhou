@@ -6,6 +6,7 @@
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... Back in the days, avid DOTA2 and Magic The Gathering TCG player
 - 💻 Portfolio: ... https://runquanrayzhou.netlify.app/
+- 📑 CV: ... <a href="https://docs.google.com/document/d/1PU9O1aSlj2VsTaWBED22dhGutsqY4YopTi5Uoedt4-s/edit?usp=sharing">My Resume</a>
 
 <!---
 runquan-ray-zhou/runquan-ray-zhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
