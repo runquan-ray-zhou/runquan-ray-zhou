@@ -14,3 +14,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=runquan-ray-zhou&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Technical Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vite,tailwind,postgres,express,react,nodejs,postman,cypress,figma,firebase,gcp,git,github,go,ai,java,jest,netlify,npm,py,regex,threejs,vscode,replit&perline=9" />
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,express,)] -->
+  </a>
+</p>
