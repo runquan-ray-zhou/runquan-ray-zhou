@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 # Technical Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vite,tailwind,postgres,express,react,nodejs,postman,cypress,figma,firebase,gcp,git,github,go,ai,java,jest,netlify,npm,py,regex,threejs,vscode,replit&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,vite,tailwind,postgres,express,react,nodejs,java,go,py,regex,npm,threejs,jest,cypress,figma,firebase,gcp,git,github,ai,postman,netlify,vscode,replit&perline=9" />
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,express,)] -->
   </a>
 </p>
