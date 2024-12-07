@@ -3,6 +3,7 @@
 - 🤩 I’m currently obsessed with ... Expert Killer Sudoku
 - 🌱 I’m currently learning ... Python ... Go ... Java
 - 💞️ I’m looking to collaborate on ... Meaningful ... Genuine Projects
+- 🥅 My career goal ... Senior Software Engineer
 - 📫 How to reach me ... rzhou@pursuit.org
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... Back in the days, avid DOTA2 and Magic The Gathering TCG player
