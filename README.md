@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray
 - 👀 I’m interested in ... AI ... Autonomous Vehicles ... Mangas ... East Asian Cinema
-- 📚 Some of my favorite mangas ... Hajime no Ippo ... Hikaru no Go ... Vagaond ... Golden Kamui ... The Fable
+- 📚 Some of my favorite mangas ... Hajime no Ippo ... Hikaru no Go ... Vagabond ... Golden Kamui ... The Fable
 - 🤩 I’m currently obsessed with ... Expert Killer Sudoku
 - 🌱 I’m currently learning ... Go ... Python ... Java
 - 💞️ I’m looking to collaborate on ... Meaningful ... Genuine Projects
