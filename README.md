@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... AI ... Autonomous Vehicles ... Mangas ... East Asian Cinema
 - 📚 Some of my favorite mangas ... Hajime no Ippo ... Hikaru no Go ... Vagabond ... Golden Kamui ... The Fable
 - 🤩 I’m currently obsessed with ... Expert Killer Sudoku
-- 🌱 I’m currently learning ... Go ... Python ... Java
+- 🌱 I’m currently learning ... Go ... Java ... Python
 - 💞️ I’m looking to collaborate on ... Meaningful ... Genuine Projects
 - 🥅 My career goal ... Senior Software Engineer
 - 📫 How to reach me ... rzhou@pursuit.org
